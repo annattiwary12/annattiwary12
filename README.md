@@ -5,7 +5,7 @@
 - 🧠 Practicing **DSA** regularly and building real-world web apps
 - 💻 Love working with **React, TailwindCSS, and the MERN stack**
 - 🤝 Open to collaborating on impactful tech & AI productivity projects
-- 📫 Reach me at: [tiwaryanant16@gmail.com](mailto:tiwaryanant16@gmail.com) or [LinkedIn](https://www.linkedin.com/in/anant-tiwary-59a27122a/)
+- 📫 Reach me at: [tiwaryanant18@gmail.com](mailto:tiwaryanant18@gmail.com) or [LinkedIn](https://www.linkedin.com/in/anant-tiwary-59a27122a/)
 - ⚡ Fun fact: *Consistency beats talent when talent doesn’t work hard!*
 ### 🛠️ Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
