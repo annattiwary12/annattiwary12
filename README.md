@@ -14,6 +14,12 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Anant's GitHub stats](https://github-readme-stats.vercel.app/api?username=annattiwary12&show_icons=true&theme=tokyonight&hide_title=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annattiwary12&layout=compact&theme=tokyonight)
+[LinkedIn](https://www.linkedin.com/in/anant-tiwary-59a27122a/)
+
+
+
 
 ![Anant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=annattiwary12&show_icons=true&theme=tokyonight)
 
