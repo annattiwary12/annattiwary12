@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @annattiwary12
-- 👀 I’m interested in  full stack developer
-- 🌱 I’m currently learning  back end 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 👋 Hi there! I'm Anant Tiwary (@annattiwary12)
 
-<!---
-annattiwary12/annattiwary12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I'm a Computer Science student and aspiring **Full Stack Developer**
+- 🌱 Currently learning **Backend Development** (Node.js, Express, MongoDB)
+- 💻 I love building projects with **React, Tailwind, and MERN stack**
+- 🤝 Open to collaborating on impactful web & AI-based productivity tools
+- 📬 Reach me at: [your email] or [LinkedIn/GitHub Discussions]
+- ⚡ Fun fact: I believe smart work + consistency beats talent alone!
