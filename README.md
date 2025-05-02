@@ -4,5 +4,5 @@
 - 🌱 Currently learning **Backend Development** (Node.js, Express, MongoDB)
 - 💻 I love building projects with **React, Tailwind, and MERN stack**
 - 🤝 Open to collaborating on impactful web & AI-based productivity tools
-- 📬 Reach me at: [your email] or [LinkedIn/GitHub Discussions]
+- 📬 Reach me at: [tiwaryanant81@gmail.com] or [https://www.linkedin.com/in/anant-tiwary-59a27122a/]
 - ⚡ Fun fact: I believe smart work + consistency beats talent alone!
