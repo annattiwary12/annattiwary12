@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Anant Tiwary (@annattiwary12)
 
-- 🎓 Computer Science student & aspiring **Full Stack Developer**
+- 🎓 Computer Science student & aspiring **Full Stack Developer*
 - 🔧 Currently diving deep into **Backend (Node.js, Express, MongoDB)**
 - 🧠 Practicing **DSA** regularly and building real-world web apps
 - 💻 Love working with **React, TailwindCSS, and the MERN stack**
