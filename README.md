@@ -5,7 +5,7 @@
 
 ### 💡 About Me
 
-- 🎓 I'm currently pursuing **B.Tech in Computer Science & Engineering** at KIIT, Bhubaneswar  
+- 🎓 I'm currently pursuing **B.Tech in Computer Science & Engineering** at KIIT, Bhubaneswar
 - 💻 Passionate about building **real-world full-stack web applications**
 - 🔧 Currently diving deep into **Backend Development** (Node.js, MongoDB, Redis, Kafka)
 - 🧠 Solving **Data Structures & Algorithms** daily on LeetCode
