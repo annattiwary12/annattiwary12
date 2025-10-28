@@ -1,95 +1,56 @@
-<h1 align="center">👋 Hi, I'm Anant Tiwary</h1>
-<h3 align="center">AI Full Stack Developer | MERN + Node.js + Spring Boot | Scalable Systems & GenAI</h3>
+# Hi, I'm Anant Tiwary
+
+AI-focused Full Stack Developer skilled in building scalable backend systems and practical AI-powered applications. I work mainly with Node.js, Spring Boot, MongoDB, PostgreSQL, Redis, and modern frontend frameworks.
 
 ---
 
-### 💡 About Me
-
-- 🎓 CSE Undergrad @ KIIT (2023–2026)
-- 💻 Building **scalable distributed systems** & **AI-powered products**
-- 🔍 Focus: Backend Engineering (Node.js, Spring Boot), Redis, Kafka, Microservices
-- 🤖 Exploring **Generative AI** for developer productivity & automation
-- 🧪 Love designing systems that **scale cleanly and perform fast**
-- 📫 Reach me: **tiwaryanant81@gmail.com**
-- 🌐 Portfolio (coming soon)  
+### About Me
+- CSE Undergrad at KIIT (2023–2026)
+- Focused on Backend Engineering and Distributed Systems
+- Interested in Generative AI for developer productivity and automation
+- Open to full-time roles & internships in Full Stack / Backend / AI Engineering
+- Contact: tiwaryanant81@gmail.com
 
 ---
 
-### 🚀 Featured Projects
+### Key Projects
 
-- 🤖 **AI Code Assistant**  
-  GenAI automation for backend code scaffolding  
-  _LangChain, Node/Spring Boot, Docker, GitHub Actions_  
-  🔗 GitHub: https://github.com/annattiwary12/AICodeAssistant
+**AI Code Assistant**  
+Automated backend code and API scaffolding using LLMs.  
+Tech: LangChain, Node/Spring Boot, Docker  
+GitHub: https://github.com/annattiwary12/AICodeAssistant
 
-- 💬 **Scalable Chat System**  
-  Distributed real-time chat using Redis Pub/Sub & Kafka  
-  _Node.js, PostgreSQL, Docker, Microservices_  
-  🔗 GitHub: https://github.com/annattiwary12/Scalable-chatApplication
+**Scalable Chat System**  
+Real-time distributed chat with Redis Pub/Sub and Kafka.  
+Tech: Node.js, PostgreSQL, Microservices, Docker  
+GitHub: https://github.com/annattiwary12/Scalable-chatApplication
 
-- 🧠 **Project Prompt — AI Prompt Hub**  
-  Create & share AI prompts with Google Auth  
-  _Next.js, MongoDB, Vercel_  
-  🔗 Live: https://project-prompt-delta.vercel.app/  
-  🔗 GitHub: https://github.com/annattiwary12/project_prompt
+**Project Prompt – AI Prompt Hub**  
+Full-stack platform to create and share AI prompts.  
+Tech: Next.js, MongoDB, Vercel  
+Live: https://project-prompt-delta.vercel.app/
 
-- 🔖 **Second Brain — Bookmark Manager**  
-  Organize bookmarks with tags, search & public share  
-  _MERN Stack_  
-  🔗 Live: https://second-brain-aoj1.vercel.app
-
-- 🎯 **Interview AI**  
-  AI interview preparation assistant  
-  _React + LLM API_  
-  🔗 Live: https://annattiwary12.github.io/Interview_ai/
+**Second Brain – Bookmark Manager**  
+Bookmark organization with search, tags, and sharing.  
+Tech: MERN  
+Live: https://second-brain-aoj1.vercel.app
 
 ---
 
-### 🛠️ Skills & Tools
+### Skills
 
-**Languages:**  
-JavaScript, TypeScript, Java, Go (Basics)
-
-**Backend:**  
-Node.js, Express.js, Spring Boot, REST APIs, Microservices
-
-**Frontend:**  
-React.js, Next.js, Tailwind CSS
-
-**Databases & Messaging:**  
-MongoDB, PostgreSQL, Redis, Kafka, MySQL
-
-**DevOps / Cloud:**  
-Docker, Kubernetes, GitHub Actions, Jenkins, AWS (EC2, S3), Vercel, Netlify
-
-**Gen AI:**  
-LangChain, OpenAI API, LLM App Development
+**Programming:** JavaScript, TypeScript, Java  
+**Backend:** Node.js, Express.js, Spring Boot, REST APIs  
+**Frontend:** React.js, Next.js, Tailwind CSS  
+**Databases:** MongoDB, PostgreSQL, MySQL, Redis  
+**Messaging & Scaling:** Kafka, Redis Pub/Sub  
+**DevOps:** Docker, Kubernetes, GitHub Actions  
+**Cloud:** AWS (EC2, S3), Vercel  
+**AI Tools:** LangChain, OpenAI API
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annattiwary12&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annattiwary12&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 🔗 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/anant-tiwary-59a27122a/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/annattiwary12" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/annattiwary12" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white" />
-  </a>
-</p>
-
----
-
-⭐ _Always open to collaborations on AI + Full Stack projects!_
+### Links
+GitHub: https://github.com/annattiwary12  
+LinkedIn: https://www.linkedin.com/in/anant-tiwary-59a27122a/  
+LeetCode: https://leetcode.com/annattiwary12
