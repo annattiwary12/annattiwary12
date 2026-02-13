@@ -1,56 +1,70 @@
-# Hi, I'm Anant Tiwary
+# Hi, I'm Anant Tiwary 👋
 
-AI-focused Full Stack Developer skilled in building scalable backend systems and practical AI-powered applications. I work mainly with Node.js, Spring Boot, MongoDB, PostgreSQL, Redis, and modern frontend frameworks.
-
----
-
-### About Me
-- CSE Undergrad at KIIT (2023–2026)
-- Focused on Backend Engineering and Distributed Systems
-- Interested in Generative AI for developer productivity and automation
-- Open to full-time roles & internships in Full Stack / Backend / AI Engineering
-- Contact: tiwaryanant81@gmail.com
+Backend-focused Software Engineer passionate about building scalable systems and AI-powered developer tools. I specialize in Java (Spring Boot) and Node.js ecosystems with strong foundations in backend architecture, APIs, and distributed systems.
 
 ---
 
-### Key Projects
+## 👨‍💻 About Me
 
-**AI Code Assistant**  
-Automated backend code and API scaffolding using LLMs.  
-Tech: LangChain, Node/Spring Boot, Docker  
-GitHub: https://github.com/annattiwary12/AICodeAssistant
-
-**Scalable Chat System**  
-Real-time distributed chat with Redis Pub/Sub and Kafka.  
-Tech: Node.js, PostgreSQL, Microservices, Docker  
-GitHub: https://github.com/annattiwary12/Scalable-chatApplication
-
-**Project Prompt – AI Prompt Hub**  
-Full-stack platform to create and share AI prompts.  
-Tech: Next.js, MongoDB, Vercel  
-Live: https://project-prompt-delta.vercel.app/
-
-**Second Brain – Bookmark Manager**  
-Bookmark organization with search, tags, and sharing.  
-Tech: MERN  
-Live: https://second-brain-aoj1.vercel.app
+- 🎓 B.Tech in Computer Science (2023–2026), KIIT
+- 🔧 Focused on Backend Engineering & Distributed Systems
+- 🧠 Strong foundation in Data Structures & Algorithms
+- 🤖 Interested in AI-assisted automation & developer productivity
+- 🚀 Open to Backend / Full Stack 
 
 ---
 
-### Skills
+## 🛠️ Tech Stack
 
-**Programming:** JavaScript, TypeScript, Java  
-**Backend:** Node.js, Express.js, Spring Boot, REST APIs  
-**Frontend:** React.js, Next.js, Tailwind CSS  
-**Databases:** MongoDB, PostgreSQL, MySQL, Redis  
-**Messaging & Scaling:** Kafka, Redis Pub/Sub  
-**DevOps:** Docker, Kubernetes, GitHub Actions  
-**Cloud:** AWS (EC2, S3), Vercel  
-**AI Tools:** LangChain, OpenAI API
+### 💻 Programming
+Java • JavaScript • TypeScript • SQL  
+
+### ⚙️ Backend
+Spring Boot • Node.js • Express.js • RESTful APIs • JWT • Keycloak  
+
+### 🗄️ Databases & Caching
+PostgreSQL • MongoDB • MySQL • Redis  
+
+### 📡 Messaging & Scaling
+Redis Pub/Sub • Event-driven architecture  
+
+### 🚀 DevOps & Deployment
+Docker • GitHub Actions • Vercel 
+
+ 
 
 ---
 
-### Links
-GitHub: https://github.com/annattiwary12  
-LinkedIn: https://www.linkedin.com/in/anant-tiwary-59a27122a/  
-LeetCode: https://leetcode.com/annattiwary12
+## 📌 Key Projects
+
+### 🎟 Event Ticket Platform
+Secure event management backend with role-based authentication.
+
+**Tech:** Spring Boot, PostgreSQL, Keycloak, MapStruct  
+🔗 GitHub: https://github.com/annattiwary12/Event-Ticket-Platform-
+
+---
+
+### 💬 Real-Time Distributed Chat System
+Scalable real-time messaging backend with low-latency communication.
+
+**Tech:** Node.js, Redis Pub/Sub, WebSockets  
+🔗 GitHub: https://github.com/annattiwary12/Scalable-chatApplication
+
+---
+
+### 🤖 AI Prompt Hub
+Full-stack platform for creating and sharing AI prompts.
+
+**Tech:** Next.js, MongoDB, OAuth  
+🔗 Live: https://project-prompt-delta.vercel.app/  
+🔗 GitHub: https://github.com/annattiwary12/project_prompt
+
+
+
+## 📫 Connect With Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/anant-tiwary-59a27122a/
+- 💻 GitHub: https://github.com/annattiwary12
+- 🧠 LeetCode: https://leetcode.com/annattiwary12
+- 📧 Email: tiwaryanant81@gmail.com
