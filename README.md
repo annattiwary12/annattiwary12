@@ -4,7 +4,7 @@ Backend-focused Software Engineer passionate about building scalable systems and
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 
 - 🎓 B.Tech in Computer Science (2023–2026), KIIT
 - 🔧 Focused on Backend Engineering & Distributed Systems
