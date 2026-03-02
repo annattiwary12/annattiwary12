@@ -35,10 +35,10 @@
 ---
 
 ## 📊 GitHub Stats
+![Anant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=annattiwary12&show_icons=true&theme=tokyonight)
 
-<!-- GitHub dynamic stats (contributions, languages) — powered by github-readme-stats -->
-![Anant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=annattiwary12&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annattiwary12&layout=compact&theme=github_dark) : contentReference[oaicite:1]{index=1}
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annattiwary12&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=annattiwary12&theme=github-dark)
 
 ---
 
@@ -64,8 +64,10 @@ Full-stack platform for creating and sharing AI prompts.
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-tiwary-59a27122a/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/annattiwary12)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=annattiwary12&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annattiwary12&layout=compact&theme=tokyonight" height="165"/>
+</p> 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/annattiwary12)  
 ✉️ tiwaryanant81@gmail.com
 
